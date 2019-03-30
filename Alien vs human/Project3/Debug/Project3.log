@@ -1,0 +1,15 @@
+﻿  Alien.cpp
+c:\users\rebecca\desktop\the game\c-assigments\alien vs human\project3\alien.h(17): error C2061: syntax error: identifier 'Player'
+c:\users\rebecca\desktop\the game\c-assigments\alien vs human\project3\alien.cpp(17): error C2511: 'void Alien::PBlast(Player &)': overloaded member function not found in 'Alien'
+  c:\users\rebecca\desktop\the game\c-assigments\alien vs human\project3\alien.h(5): note: see declaration of 'Alien'
+c:\users\rebecca\desktop\the game\c-assigments\alien vs human\project3\alien.cpp(19): error C2597: illegal reference to non-static member 'Alien::m_Health'
+c:\users\rebecca\desktop\the game\c-assigments\alien vs human\project3\alien.cpp(19): error C3867: 'Alien::m_Health': non-standard syntax; use '&' to create a pointer to member
+  Game.cpp
+c:\users\rebecca\desktop\the game\c-assigments\alien vs human\project3\alien.h(17): error C2061: syntax error: identifier 'Player'
+c:\users\rebecca\desktop\the game\c-assigments\alien vs human\project3\game.cpp(48): error C2660: 'Alien::PBlast': function does not take 1 arguments
+  c:\users\rebecca\desktop\the game\c-assigments\alien vs human\project3\alien.h(17): note: see declaration of 'Alien::PBlast'
+  Player.cpp
+c:\users\rebecca\desktop\the game\c-assigments\alien vs human\project3\alien.h(17): error C2061: syntax error: identifier 'Player'
+  Source.cpp
+c:\users\rebecca\desktop\the game\c-assigments\alien vs human\project3\alien.h(17): error C2061: syntax error: identifier 'Player'
+  Generating Code...
